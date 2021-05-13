@@ -1,3 +1,5 @@
+//Java program to get the character at the given index within the String.//
+
 package strings;
 import java.util.Scanner;
 
