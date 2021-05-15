@@ -1,3 +1,4 @@
+// Java program to create a new String object with the contents of a character array. //
 package strings;
 
 public class JavaStringProgram11 {
