@@ -1,5 +1,6 @@
-package strings;
+// Java program to compare a given string to the specified string buffer.//
 
+package strings;
 import java.util.Scanner;
 
 public class JavaStringProgram10 {
